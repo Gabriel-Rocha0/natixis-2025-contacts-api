@@ -1,0 +1,12 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "REST API para Gestão de Contactos",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
